@@ -1,0 +1,22 @@
+main:  me.rukon0621.boxes.RukonBoxes
+version: 1.0
+name: RukonBoxes
+api-version: 1.18
+author: Rukon
+commands:
+  randomBox:
+    usage: /randomBox
+    permission: guardinas.oper
+    aliases:
+      - 랜덤박스
+  selectBox:
+    usage: /selectBox
+    permission: guardinas.oper
+    aliases:
+      - 선택형박스
+  mysterybox:
+    usage: /mysterybox
+    permission: guardinas.oper
+    aliases:
+      - 미박
+      - 미스터리박스
